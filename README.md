@@ -12,7 +12,7 @@ JSFinder获取URL和子域名的方式：
 
 Blog: https://threezh1.com/
 
-原本地址github:https://github.com/Threezh1/JSFinder.git
+github:https://github.com/Threezh1/JSFinder.git
 
 
 
